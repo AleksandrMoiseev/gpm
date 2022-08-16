@@ -1,1 +1,1 @@
-# gpm
+# Greenplum Modeller
